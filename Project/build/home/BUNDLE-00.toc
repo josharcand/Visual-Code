@@ -1,0 +1,3 @@
+([('home',
+   '/Users/josh/Documents/Computronix/Visual Code/Project/dist/home',
+   'EXECUTABLE')],)
